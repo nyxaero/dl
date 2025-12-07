@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  7 22:30:34 2025
-
-@author: hemanth
-"""
-
 
 from tensorflow.keras import datasets, layers, models
 import matplotlib.pyplot as plt

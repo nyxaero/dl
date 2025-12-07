@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  7 23:07:42 2025
 
-@author: hemanth
-"""
 
 import tensorflow_hub as hub
 import tensorflow as tf

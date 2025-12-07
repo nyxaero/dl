@@ -1,4 +1,3 @@
-# pylint: disable=unused-import,unused-variable
 
 from tensorflow.keras import layers, models, optimizers
 import numpy as np
